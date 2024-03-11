@@ -1,15 +1,15 @@
 {
-   "name": "suhail-md",
+   "name": "Rhodvick-md",
    "version": "1.3.0",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Rhodvick tech",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "start": "pm2 start . --attach --name Rhodvick",
+            "stop": "pm2 stop Rhodvick"
    },
-   "author": "SuhailTechInfo",
+   "author": "RhodvickTech",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
