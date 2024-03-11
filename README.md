@@ -1,4 +1,4 @@
- <h1 align="center"> RHODVICK Md </h1> <p align="center"> A simple WhatsApp bot with rich features. </p>
+ <h1 align="center"> RHODVICK MD </h1> <p align="center"> A simple WhatsApp bot with rich features. </p>
  
 <h3 align="center"> <a href="https://github.com/Rhodvick/RHODVICK-TECH-Media"> GET PLUGINS </a>FOR RHODVICK_MD! </h3> 
 
