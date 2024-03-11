@@ -1,5 +1,4 @@
  <h1 align="center"> RHODVICK Md </h1> <p align="center"> A simple WhatsApp bot with rich features. </p>
-
  
 <h3 align="center"> <a href="https://github.com/Rhodvick/RHODVICK-TECH-Media"> GET PLUGINS </a>FOR RHODVICK_MD! </h3> 
 
@@ -88,7 +87,7 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://www.youtube.com/@Rhodvick). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Rhodvick/RHODVICM-MD/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/Rhodvick/RHODVICK-MD/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRhodvick%2FRHODVICK-MD)***
