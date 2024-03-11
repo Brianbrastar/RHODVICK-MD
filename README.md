@@ -92,7 +92,7 @@
 3.  ***Click [`FORK`](https://github.com/Rhodvick/RHODVICM-MD/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRhodvick%2FSuhail-)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRhodvick%2FRHODVICK-)***
 7.  ***Deploy on [`Replit`](https://replit.com/github/Rhodvick/RHODVICK-MD)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Rhodvick/RHODVICK-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254700150919&env[MONGODB_URI]&&env[OWNER_NAME]=Rhodvick&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=RHODVICK&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
